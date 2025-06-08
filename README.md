@@ -4,7 +4,7 @@
 
 Me chamo Matheus Silveira de Oliveira, tenho 17 anos e sou natural de Santa Catarina. Sou estudante de Ensino Médio no IFC. Atualmente, estou concursando o técnico em informática p/ Internet. Gosto de tecnologia e aproveito para mostrar minhas expêriencias aqui no GitHub.
 
-### 🤖 Tech Stack:
+### 🤖 Linguagens e Tecnologias:
 
 <img 
     align="left" 
